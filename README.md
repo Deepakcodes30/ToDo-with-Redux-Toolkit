@@ -22,4 +22,4 @@ A simple, clean, and efficient TODO application built with **React.js** and **Re
 | Frontend         | React.js                   |
 | State Management | Redux Toolkit              |
 | Build Tool        | Vite |
-| Styling           | CSS |
+| Styling           | Tailwind CSS |
